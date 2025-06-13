@@ -1,0 +1,2 @@
+hari;password;15466.43
+tester;pass123;200.00
